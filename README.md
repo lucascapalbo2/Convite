@@ -55,7 +55,7 @@
   <div id="container">
     <button id="nao-button">Não</button>
     <button id="sim-button">Sim</button>
-    <p id="message">Posso ir para sua casa?</p>
+    <p id="message">Vamos se ver hoje?</p>
     <span id="heart">&hearts;</span>
   </div>
 
